@@ -1,0 +1,157 @@
+{
+    "id": 100,
+    "fecha": "2022/10/19",
+    "turno": "turno 1",
+    "supervisor": "Eduardo Mendoza Ojeda",
+    "operador": "Luis Carlos Munoz",
+    "horometro": 1960,
+    "estado_operativo": true,
+    "categorias": [
+        {
+            "nombre": "Defectos criticos",
+            "preguntas": [
+                {
+                    "nombre": "sistema de dirección primaria",
+                    "estado": false
+                },
+                {
+                    "nombre": "sistema de frenos",
+                    "estado": false
+                },
+                {
+                    "nombre": "cinturón de seguridad",
+                    "estado": false
+                },
+                {
+                    "nombre": "vidrios panoramicos, ventanas",
+                    "estado": false
+                },
+                {
+                    "nombre": "espejo retrovisor",
+                    "estado": false
+                },
+                {
+                    "nombre": "bocina",
+                    "estado": false
+                },
+                {
+                    "nombre": "extintor de incedios",
+                    "estado": false
+                },
+                {
+                    "nombre": "palanca de operaciones",
+                    "estado": false
+                }
+            ]
+        },
+        {
+            "nombre": "Defectos operacionales",
+            "preguntas": [
+                {
+                    "nombre": "nivel de aceite del motor",
+                    "estado": false
+                },
+                {
+                    "nombre": "nivel de aceite de hidrahulico",
+                    "estado": false
+                },
+                {
+                    "nombre": "nivel de aceite de transmisión",
+                    "estado": false
+                },
+                {
+                    "nombre": "fugas o perdidas de combustible",
+                    "estado": false
+                },
+                {
+                    "nombre": "Chaquetas termicas del turbo",
+                    "estado": false
+                },
+                {
+                    "nombre": "neumaticos, ruedas, llantas, rims",
+                    "estado": false
+                },
+                {
+                    "nombre": "cilindros hidrahulicos",
+                    "estado": false
+                },
+                {
+                    "nombre": "indiciadores, medidores de cabina",
+                    "estado": false
+                },
+                {
+                    "nombre": "silla del operador",
+                    "estado": false
+                },
+                {
+                    "nombre": "alarma de retroceso",
+                    "estado": false
+                },
+                {
+                    "nombre": "luces internas, cabina",
+                    "estado": false
+                },
+                {
+                    "nombre": "alarma de retroceso2",
+                    "estado": false
+                },
+                {
+                    "nombre": "señalización reflectiva",
+                    "estado": false
+                },
+                {
+                    "nombre": "balde o herramienta de corte",
+                    "estado": false
+                }
+            ]
+        },
+        {
+            "nombre": "condiciones defectuosas",
+            "preguntas": [
+                {
+                    "nombre": "nivel de combustible mayor a medio tanque",
+                    "estado": false
+                },
+                {
+                    "nombre": "fugas de aceite",
+                    "estado": false
+                },
+                {
+                    "nombre": "lineas de grasa, mangueras, fugas",
+                    "estado": false
+                },
+                {
+                    "nombre": "escaleras, plataformas, barandas, agarraderos",
+                    "estado": false
+                },
+                {
+                    "nombre": "puertas, cerraduras y sellos",
+                    "estado": false
+                },
+                {
+                    "nombre": "limpiabrisas, lavadores",
+                    "estado": false
+                },
+                {
+                    "nombre": "daño extructural, compuertas, cubiertas",
+                    "estado": false
+                },
+                {
+                    "nombre": "latoneria, pintura",
+                    "estado": false
+                },
+                {
+                    "nombre": "limpieza general de la cabina, suciedad",
+                    "estado": false
+                },
+                {
+                    "nombre": "estado del aire acondicionado",
+                    "estado": false
+                }
+            ]
+        }
+    ],
+    "observaciones": "observaciones relevantes al chequeo",
+    "path_firma_operador": "",
+    "path_firma_supervisor": ""
+}
